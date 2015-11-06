@@ -2,4 +2,4 @@
 
 Repository for Data Science
 
--Satyapriya Krishna
+© Xiaodan Zhang 2014 All Rights reserved.
