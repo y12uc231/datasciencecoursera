@@ -2,4 +2,4 @@
 
 Repository for Data Science
 
-© Xiaodan Zhang 2014 All Rights reserved.
+© Satyapriya Krishna 2015 All Rights reserved.
